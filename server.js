@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/about", (req, res) => {
-  res.send("This is GitHub practice project");
+  res.send("This is GitHub practice projec my first this ");
 });
 
 app.listen(3000, () => {
